@@ -19,4 +19,4 @@ curl -LJo magnet.jar https://github.com/Avicus/Magnet/releases/download/1.8.8/ma
 # Run the server
 java  -Xms1G -Xmx4G -jar magnet.jar
 
-pause
+sleep 10
