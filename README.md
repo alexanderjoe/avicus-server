@@ -1,5 +1,6 @@
 # avicus-server
-This folder is setup to run the Avicus server with a few additional plugins.
+- This folder is setup to run an Atlas server from [Avicus](https://avicus.net) with a few additional plugins.
+- All credit goes to the original Avicus Development team and the work can be found on their [GitHub](https://github.com/Avicus).
 
 # Requirements
 - Java 1.8 (required to support legacy plugins)
